@@ -22,22 +22,6 @@
 
 ---
 
-## 🌐 ارتباط با من
-
-<p align="left">
-  <a href="https://linkedin.com/in/mobinmohammadi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mobin.__.mohammadi7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:mobyn3223@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" />
-  </a>
-</p>
-
----
-
 ## 🛠️ تکنولوژی‌ها و ابزارها
 
 ### Frontend
