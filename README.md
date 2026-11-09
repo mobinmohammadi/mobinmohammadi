@@ -5,7 +5,7 @@
 <h3>💻 Frontend Developer | React & Next.js Enthusiast</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Express.js+%7C+MongoDB+%7C+Socket.io;Building+Multi-Vendor+E-Commerce;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Redux+%7C+Express.js+%7C+MongoDB;Building+Multi-Vendor+E-Commerce;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p>
@@ -22,8 +22,9 @@
 
 - 🔭 در حال کار روی پروژه [**چند فروشندگی (Multi-Vendor E-Commerce)**](https://eccomerce011.vercel.app/) — یک پلتفرم تجارت الکترونیک کامل
 - 🛒 بک‌اند اختصاصی با **Express.js** + **MongoDB**
+- ⚡ مدیریت State با **Redux**
 - 👨‍💻 همه پروژه‌هامو می‌تونی اینجا ببینی: [github.com/mobinmohammadi](https://github.com/mobinmohammadi)
-- 💬 بپرس از من درباره **React, Next.js, TypeScript, Express.js, MongoDB, Socket.io**
+- 💬 بپرس از من درباره **React, Next.js, TypeScript, Redux, Express.js, MongoDB, Socket.io, Postman**
 - 🎨 طراحی UI با **Figma**
 - 📫 راه ارتباطی: **mobyn3223@gmail.com**
 
@@ -34,10 +35,10 @@
 <div align="center">
 
 ### 💻 Frontend Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap&perline=9&theme=dark" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio,postman&perline=8&theme=dark" />
 
 ### 🎨 Design & Tools
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=8&theme=dark" />
@@ -53,9 +54,11 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
@@ -74,7 +77,7 @@
 
 > یک پلتفرم فروشگاهی چندفروشندگی با قابلیت مدیریت چندین فروشنده، دسته‌بندی محصولات، سبد خرید و پنل مدیریت.
 >
-> **Tech Stack:** Next.js • TypeScript • Tailwind CSS • Express.js • MongoDB
+> **Tech Stack:** Next.js • TypeScript • Redux • Tailwind CSS • Express.js • MongoDB
 
 <table>
   <tr>
@@ -86,6 +89,7 @@
         <li>✅ محصولات ویژه (Featured Products)</li>
         <li>✅ جدیدترین و پرطرفدارترین محصولات</li>
         <li>✅ سبد خرید و مدیریت سفارش</li>
+        <li>✅ مدیریت State با Redux</li>
         <li>✅ احراز هویت کاربران</li>
         <li>✅ چند زبانه (EN / FA)</li>
       </ul>
@@ -94,9 +98,11 @@
       <h3>🧰 تکنولوژی‌ها</h3>
       <ul>
         <li>⚛️ <b>Frontend:</b> Next.js + TypeScript</li>
+        <li>🔄 <b>State:</b> Redux Toolkit</li>
         <li>🎨 <b>UI:</b> Tailwind CSS</li>
         <li>🛠 <b>Backend:</b> Express.js (اختصاصی)</li>
         <li>🍃 <b>Database:</b> MongoDB</li>
+        <li>📮 <b>API Testing:</b> Postman</li>
         <li>🚀 <b>Deploy:</b> Vercel</li>
       </ul>
     </td>
